@@ -1,0 +1,26 @@
+# Lab 1-2 Question 11
+# Baden James Martin bjm047@arastudent.ac.nz
+first_integer = int(input("Please enter the first integer: "))
+second_integer = int(input("Please enter the second integer: "))
+result = (first_integer) / (second_integer)
+print("The answer to ")
+print(first_integer)
+print("divided by")
+print(second_integer)
+print("is")
+print(result)
+
+
+# Lab 1-2 Question 9
+# Baden James Martin bjm047@arastudent.ac.nz
+entered_first_name = input("Please enter your first/given name: ")
+age = int(input("Please enter your age: "))
+total_age = (age) +2
+print("Hi")
+print(entered_first_name)
+print("pleased to meet you. You are")
+print(age)
+print("years old.")
+print("In two years you will be")
+print(total_age)
+print("years old.")
